@@ -1,0 +1,22 @@
+# ─── Laboratorio 9 — RNA · CC3074 Minería de Datos ───────────────────────────
+# Instalar con:  pip install -r requirements.txt
+
+# Core científico
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Machine Learning
+scikit-learn>=1.3
+
+# Visualización
+matplotlib>=3.7
+seaborn>=0.12
+
+# Jupyter
+notebook>=7.0
+ipykernel>=6.0
+ipywidgets>=8.0
+
+# Opcional: para leer RData sin necesitar R instalado (si tu entorno lo soporta)
+# pyreadr>=0.4   # requiere compilación nativa; omitir si falla
